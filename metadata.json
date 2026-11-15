@@ -1,0 +1,6 @@
+{
+  "name": "Matchboy Science Quest P4",
+  "description": "A Minecraft-style 3D Primary 4 science adventure with fire-match boys Bryan, Caden, and Sparky featuring interactive cellular biology, ecosystem, and curriculum puzzles, timed badge quests, and a teacher mastery tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
